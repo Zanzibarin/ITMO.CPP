@@ -1,0 +1,11 @@
+int sumElems(int*, int);
+double meanValue(int*, int);
+int sumNegElems(int*, int);
+int sumPosElems(int*, int);
+int sumElemsOddIndex(int*, int);
+int sumElemsEvenIndex(int*, int);
+int indexMinElems(int*, int);
+int indexMaxElems(int*, int);
+void multElems(int*, int);
+void sortArray(int*, int);
+int* max_vect(int, int*, int*);
